@@ -38,6 +38,10 @@ body {
     width: 280px;
     border-color: #2ecc71;
 }
+
+.box input[type = "text"]:hover,.box input[type = "password"]:hover{
+    width: 280px;
+    border-color: #2ecc71;
 .box input[type = "submit"]{
     border: 0;
     background: none;
